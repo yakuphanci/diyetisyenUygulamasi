@@ -1,0 +1,13 @@
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\bin\Debug\diyetisyenUygulamasi.exe.config
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\bin\Debug\diyetisyenUygulamasi.exe
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\bin\Debug\diyetisyenUygulamasi.pdb
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\obj\Debug\diyetisyenUygulamasi.csprojAssemblyReference.cache
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\obj\Debug\diyetisyenUygulamasi.Properties.Resources.resources
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\obj\Debug\diyetisyenUygulamasi.csproj.GenerateResource.cache
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\obj\Debug\diyetisyenUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\obj\Debug\diyetisyenUygulamasi.exe
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\obj\Debug\diyetisyenUygulamasi.pdb
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\obj\Debug\diyetisyenUygulamasi.Form_Giris.resources
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\obj\Debug\diyetisyenUygulamasi.Form_AdminPenceresi.resources
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\obj\Debug\diyetisyenUygulamasi.Form_DiyetisyenPenceresi.resources
+C:\Users\Yakup\source\repos\diyetisyenUygulamasi\diyetisyenUygulamasi\obj\Debug\diyetisyenUygulamasi.Form_HastaGuncelleme.resources
